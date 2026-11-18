@@ -24,4 +24,4 @@ Backend chỉ khởi động khi kết nối MongoDB thành công.
 
 ## Trạng thái
 
-Đây là bộ khung khởi tạo. Chưa có nghiệp vụ gọi món, tài khoản, phân quyền, màn hình bếp, thanh toán VNPAY hoặc thống kê. Socket.IO đã khởi tạo nhưng chưa có sự kiện nghiệp vụ.
+Hiện đang hoàn thiện Backend và Frontend chưa được triển khai
